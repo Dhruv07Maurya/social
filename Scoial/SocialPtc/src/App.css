@@ -1,0 +1,13 @@
+.sidebar {
+  height: 600px;
+}
+.home {
+  display: flex;
+}
+.car{
+    display: flex;
+}
+.main-page{
+    width: 100%;
+    
+}
